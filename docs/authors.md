@@ -2,21 +2,20 @@
 
 ## Authors
 
-- **yourfirstname lastname**. Author, maintainer.
-  [](https://orcid.org/0000-0002-1825-0097)
+- **Weijie Li**. Author, maintainer.
 
 ## Citation
 
 Source:
-[`DESCRIPTION`](https://github.com/vjcitn/bst260project-template/NA/NA/NA/blob/HEAD/DESCRIPTION)
+[`DESCRIPTION`](https://github.com/weijie-li-001/finalproject/blob/HEAD/DESCRIPTION)
 
-lastname y (2026). *bst260project: project code and narrative*. R
-package version 0.0.3, <https://github.com/youreponame>.
+Li W (2026). *finalproject: Public Health Data Analyses for BST260*. R
+package version 0.0.3, <https://weijie-li-001.github.io/finalproject/>.
 
     @Manual{,
-      title = {bst260project: project code and narrative},
-      author = {yourfirstname lastname},
+      title = {finalproject: Public Health Data Analyses for BST260},
+      author = {Weijie Li},
       year = {2026},
       note = {R package version 0.0.3},
-      url = {https://github.com/youreponame},
+      url = {https://weijie-li-001.github.io/finalproject/},
     }
